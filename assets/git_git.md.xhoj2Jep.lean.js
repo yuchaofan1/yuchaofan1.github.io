@@ -1,0 +1,1 @@
+import{_ as t,c as i,o as a,ah as g}from"./chunks/framework.Bdso6YBw.js";const o=JSON.parse('{"title":"下载安装Git","description":"","frontmatter":{},"headers":[],"relativePath":"git/git.md","filePath":"git/git.md"}'),s={name:"git/git.md"};function r(e,p,n,c,l,m){return a(),i("div",null,[...p[0]||(p[0]=[g("",54)])])}const d=t(s,[["render",r]]);export{o as __pageData,d as default};
