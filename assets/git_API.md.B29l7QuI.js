@@ -1,0 +1,2 @@
+import{_ as a,c as r,o as n,j as t}from"./chunks/framework.BwjooFYG.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"git/API.md","filePath":"git/API.md"}'),o={name:"git/API.md"};function s(c,e,i,l,d,p){return n(),r("div",null,[...e[0]||(e[0]=[t("pre",null,[t("code",null,`                                  还没写
+`)],-1)])])}const f=a(o,[["render",s]]);export{_ as __pageData,f as default};
